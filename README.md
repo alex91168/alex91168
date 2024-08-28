@@ -1,4 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F73231&width=435&lines=Welcome+to+my+GitHub+Profile!)](https://git.io/typing-svg) 🖐
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F73231&width=435&lines=Welcome+to+my+GitHub+Profile!)](https://git.io/typing-svg) 
+<p>Hi, I’m Alex, a 24-year-old front-end developer in training. I have hands-on experience with HTML, SASS, JavaScript, and relevant frameworks. I’m always looking for new challenges and opportunities to apply and expand my web development skills. </p>
 
 ### Technologies and tools:
 
