@@ -4,10 +4,14 @@
 ### Technologies and tools:
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Javascript" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="35" width="40" src="https://raw.githubusercontent.com/cx/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> 
-  <img align="center" alt="React" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css"> 
+  <img align="center" alt="HTML" height="35" width="40" src="">
+  <img align="center" alt="CSS" height="35" width="40" src="">
+  <img align="center" alt="Sass" height="35" width="40" src=""> 
+  <img align="center" alt="JavaScript" height="35" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg"> 
+  <img align="center" alt="BootStrap" height="35" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bootstrap.svg"> 
+  <img align="center" alt="React" height="35" width="40" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg"> 
+  
+  
 </div><br>
 
 ### GitHub Stats
