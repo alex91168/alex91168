@@ -1,18 +1,20 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F73231&width=435&lines=Welcome+to+my+GitHub+Profile!)](https://git.io/typing-svg) 
-<p>Hi, I’m Alex, a 24-year-old web developer in training. I have hands-on experience with HTML, SASS, JavaScript, and relevant frameworks. I’m always looking for new challenges and opportunities to apply and expand my web development skills. </p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&repeat=false&width=435&lines=Welcome+to+my+profile!)]
+<p>Hi, I’m Alex, a 24-year-old fullstack developer. I have hands-on experience with React, Angular, Nest.js, ASP.NET Core, and relevant frameworks. I’m always looking for new challenges and opportunities to apply and expand my web development skills. </p>
 
 ### Technologies and tools:
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="HTML" height="35" width="40" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg">
-  <img align="center" alt="CSS" height="35" width="40" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg">
-  <img align="center" alt="Sass" height="35" width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Sass_Logo_Color.svg"> 
-  <img align="center" alt="JavaScript" height="35" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg"> 
-  <img align="center" alt="BootStrap" height="35" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bootstrap.svg"> 
-  <img align="center" alt="React" height="35" width="40" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg"> 
+  <img align="center" alt="Angular" title="Angular" height="35" width="40" src="https://www.svgrepo.com/show/452156/angular.svg">
+  <img align="center" alt="React" title="React" height="35" width="40" src="https://www.svgrepo.com/show/452092/react.svg">
+  <img align="center" alt="NodeJs" title="Node.js" height="35" width="40" src="https://www.svgrepo.com/show/452075/node-js.svg"> 
+  <img align="center" alt="Typescript" title="Typescript" height="35" width="40" src="https://www.svgrepo.com/show/354478/typescript-icon.svg"> 
+  <img align="center" alt="Nestjs" title="NestJs" height="35" width="40" src="https://www.svgrepo.com/show/373865/nest-middleware-ts.svg"> 
+  <img align="center" alt="Python" title="Python" height="35" width="40" src="https://www.svgrepo.com/show/452091/python.svg"> 
+  <img align="center" alt="ASP.NET" title="ASP.NET CORE" height="35" width="40" src="https://www.svgrepo.com/show/508894/aspnet.svg"> 
   
   
-</div><br>
+</div>
+<br />
 
 ### GitHub Stats
 
