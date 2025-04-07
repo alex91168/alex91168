@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&repeat=false&width=435&lines=Welcome+to+my+profile!)]
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&repeat=false&width=435&lines=Welcome+to+my+profile!)](https://git.io/typing-svg)
 <p>Hi, I’m Alex, a 24-year-old fullstack developer. I have hands-on experience with React, Angular, Nest.js, ASP.NET Core, and relevant frameworks. I’m always looking for new challenges and opportunities to apply and expand my web development skills. </p>
 
 ### Technologies and tools:
